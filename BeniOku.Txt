@@ -1,0 +1,6 @@
+1- derleme Komud satırına make build yazınız
+2- çalıştırma için  Komud satırına make run yazınız
+3- eğer hangi taşın hangi taşı tehdit ettiğini görmek istyorsanız 
+ilk girdi olan yere "debug" yazınız
+4- input dosyasnın dosya yolunu (path) giriniz
+çıkmak için "e" yazınız. 
